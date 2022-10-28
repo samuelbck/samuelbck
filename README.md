@@ -1,6 +1,4 @@
-Currently learning HTML/CSS, SQL and C
-
-I'm a student at "Université de Lorraine", in IT.
+Student, currently learning HTML/CSS, SQL and C
 
 My links:
 
